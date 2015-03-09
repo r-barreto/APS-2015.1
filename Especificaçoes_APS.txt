@@ -1,0 +1,37 @@
+/*
+ *
+ *	Especificação de Funcionalidades APS:
+ *		SisPassagens - Grupo 11
+ *
+ *		Pedro Buarque
+ *		Raul Barreto
+ *		Alvaro Gomes
+ *	
+ */
+ 
+ 
+ Conjunto de Especificações : (Análise de Funcionalidades Requisitadas)
+ 
+1. Persitência de uma entidade Cliente para armazenamento dos dados de preferências
+2. Busca necessita de cidade ou aeroportos de origem e destino, data de partida e data de retorno
+   e quantidade de passageiros ( essa quantida por ser definidas por valores default )
+3. Realizar validação de Dados, se aeroporto de destino ou de origem não forem informados o mais
+   próximo deve ser alocado. ( Grafos de busca por largura )
+4. Pesquisa opcional por passagens só de ida, ou passagens com múltiplos destinos (MAX 8 Vôos)
+5. Mostrar primeiro vôos de ida, depois da seleção da opção de vôo, a volta então é mostrada, 
+   podendo ser filtrados pela quantidade de escalas, companhia ou horário de partida.
+6. Os resultados de busca podem ser ordenados por horário de partida ou chegada, duraçao do vôo e preço
+7. Entidade vôo demostra um interesse por persitência, para cada um delas exibir nome da companhias(s)
+   duração total, quantidade de escalas, preço total, e forma detalhada do trecho como hora da partida
+   e da chegada, duraçao, a classe a aeronave e o percentual médio de atraso
+8. Resumo da compra (entidade que demonstra persitência)
+9. Para concluit a reserva  o usuário deve estar autenticado no sistema
+10. Cadastro da entidade cliente deve possuir nome completo, data nascimento, nacionalidade, telefone
+    tipo de documento de identificaçao e se a viagem for internacional o documento de id deve ser o 
+	passaporte, e um contato de emergência
+11. Escolha de assento é opcional e informar dados de passageiro frequente (programas de fidelidade)
+12. Pagamento pode ser realizado com Cartão de Crédito ou PayPal
+13. Após a validação pelo sistema o usuário é redirecionado para o site do cartão ou do paypal
+    e após a conclusão do pagamento o sistema automaticamente envia um email de confirmação para o
+	usuário e notifica o sistema da companhia aerea
+14. O sistema possui dois tipos de usuário, o cliente e o administrador
