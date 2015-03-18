@@ -1,0 +1,15 @@
+CDU001 - Cadastrar Usuários - ( Email. Alternativo: Facebook, Google+)
+CDU002 - Buscar Destino (Selecionar Hotel, Passagem etc)
+CDU003 - Buscar Voo (Buscar na empresa ou no Banco de Dados)
+CDU004 - Comprar Passagens (Efetuar Pagamento - Cartão de Crédito e PayPal)
+CDU005 - Manter Usuário (CRUD)
+CDU006 - Fazer Comentário (Comentário sobre a empresa aéria e/ou comentário sobre a cidade de Destino)
+CDU007 - Consultar histórico de compras
+CDU008 - Gerenciar Companhias Aérias e seus vôos
+CDU009 - Realizar Login
+CDU010 - Realizar Logout
+CDU011 - Notificar Usuário
+CDU012 - Fazer Reserva
+CDU013 - Cancelar Reserva
+
+Atores - Cliente, Empresa Aéria, Administrador 
