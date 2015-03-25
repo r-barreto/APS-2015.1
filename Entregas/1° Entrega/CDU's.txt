@@ -1,15 +1,21 @@
+Casos de Uso
+
 CDU001 - Cadastrar Usuários - ( Email. Alternativo: Facebook, Google+)
 CDU002 - Buscar Destino (Selecionar Hotel, Passagem etc)
-CDU003 - Buscar Voo (Buscar na empresa ou no Banco de Dados)
-CDU004 - Comprar Passagens (Efetuar Pagamento - Cartão de Crédito e PayPal)
-CDU005 - Manter Usuário (CRUD)
-CDU006 - Fazer Comentário (Comentário sobre a empresa aéria e/ou comentário sobre a cidade de Destino)
-CDU007 - Consultar histórico de compras
-CDU008 - Gerenciar Companhias Aérias e seus vôos
-CDU009 - Realizar Login
-CDU010 - Realizar Logout
-CDU011 - Notificar Usuário
-CDU012 - Fazer Reserva
-CDU013 - Cancelar Reserva
+CDU003 - Efetura Pagamento (Efetuar Pagamento - Cartão de Crédito e PayPal)(pt Ext de Buscar Destino)
+CDU004 - Manter Cliente (CRUD)
+CDU005 - Realizar Comentário (Comentário sobre a empresa aéria e/ou comentário sobre a cidade de Destino)
+CDU006 - Consultar histórico de compras
+CDU007 - Manter Companhias Aéreas (CRUD)
+CDU008 - Realizar Login
+CDU009 - Sair do Sistema
+CDU010 - Notificar Usuário
+CDU011 - Fazer Reserva (pt Ext de Buscar Destino)?
+CDU012 - Cancelar Reserva?
 
-Atores - Cliente, Empresa Aéria, Administrador 
+Atores
+
+ATOR 000 - Administrador 
+ATOR 001 - Cliente
+ATOR 002 - Agência de Cartão
+ATOR 003 - Empresa Aérea
