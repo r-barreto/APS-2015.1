@@ -2,7 +2,7 @@ Casos de Uso
 
 CDU001 - Cadastrar Usuários - ( Email. Alternativo: Facebook, Google+)
 CDU002 - Buscar Destino (Selecionar Hotel, Passagem etc)
-CDU003 - Efetura Pagamento (Efetuar Pagamento - Cartão de Crédito e PayPal)(pt Ext de Buscar Destino)
+CDU003 - Efetuar Pagamento (Efetuar Pagamento - Cartão de Crédito e PayPal)(pt Ext de Buscar Destino)
 CDU004 - Manter Cliente (CRUD)
 CDU005 - Realizar Comentário (Comentário sobre a empresa aéria e/ou comentário sobre a cidade de Destino)
 CDU006 - Consultar histórico de compras

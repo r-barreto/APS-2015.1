@@ -1,0 +1,13 @@
+ME001 = Usuário já cadastrado
+ME002 = Dados não preenchidos
+ME003 = Pesquisa não encontrada
+ME004 = Falha na transação
+ME005 = Usuário não cadastrado no sistema.
+ME006 = Deseja desconectar do SisPassagens 
+ME007 = Nenhum item adicionado ao carrinho
+
+COD001 Autenticação =  O cliente deve estar autenticado no sistema.
+COD002 Realização da Pesquisa = Realização do caso de uso "CDU002 - Buscar Destino"
+
+CODP001 Cliente Cadastrado = Cliente cadastrado no sistema.
+CODP002 Compra Efetuada = Usuário terá comprado uma passagem.
